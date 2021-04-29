@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c2f3bb4.chunk.css",
+    "main.js": "/static/js/main.d1498bd0.chunk.js",
+    "main.js.map": "/static/js/main.d1498bd0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e01ae2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e01ae2e.js.map",
+    "static/js/2.7eaa5a3e.chunk.js": "/static/js/2.7eaa5a3e.chunk.js",
+    "static/js/2.7eaa5a3e.chunk.js.map": "/static/js/2.7eaa5a3e.chunk.js.map",
+    "static/js/3.a3ad2312.chunk.js": "/static/js/3.a3ad2312.chunk.js",
+    "static/js/3.a3ad2312.chunk.js.map": "/static/js/3.a3ad2312.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2c2f3bb4.chunk.css.map": "/static/css/main.2c2f3bb4.chunk.css.map",
+    "static/js/2.7eaa5a3e.chunk.js.LICENSE.txt": "/static/js/2.7eaa5a3e.chunk.js.LICENSE.txt",
+    "static/media/criptomundo.89c896d3.png": "/static/media/criptomundo.89c896d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e01ae2e.js",
+    "static/js/2.7eaa5a3e.chunk.js",
+    "static/css/main.2c2f3bb4.chunk.css",
+    "static/js/main.d1498bd0.chunk.js"
+  ]
+}
